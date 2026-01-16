@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/wonder-ai-animations
+**URL**: [LLM Pipeline Visualization](https://llm-pipeline-visualizer.vercel.app/) (click here to play)
 
 ## How can I edit this code?
 
